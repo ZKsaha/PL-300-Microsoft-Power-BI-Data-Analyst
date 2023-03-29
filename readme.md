@@ -1,11 +1,12 @@
 # PL-300: Microsoft Power BI Data Analyst
 
+https://learn.microsoft.com/en-us/certifications/exams/pl-300/
+
 This repository contains the hands-on lab exercises for Microsoft course [PL-300: Microsoft Power BI Data Analyst](https://docs.microsoft.com/en-us/learn/certifications/courses/PL-300T00). The labs are designed to accompany the learning materials and enable learners to practice using the technologies they describe.
 Content Directory
 Hyperlinks to each of the lab exercises and demos are listed below.
 
 Labs
-Section	Lab
 
 1 - Set up your own environment	Set up your own environment
 
