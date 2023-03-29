@@ -1,6 +1,27 @@
 # PL-300: Microsoft Power BI Data Analyst
 
 This repository contains the hands-on lab exercises for Microsoft course [PL-300: Microsoft Power BI Data Analyst](https://docs.microsoft.com/en-us/learn/certifications/courses/PL-300T00). The labs are designed to accompany the learning materials and enable learners to practice using the technologies they describe.
+Content Directory
+Hyperlinks to each of the lab exercises and demos are listed below.
+
+Labs
+Section	Lab
+
+1 - Set up your own environment	Set up your own environment
+
+https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/00-setup.html
+
+2 - Get Data in Power BI	Prepare Data in Power BI Desktop
+3 - Clean, Transform, and Load Data in Power BI	Load Data in Power BI Desktop
+4 - Design a Data Model in Power BI	Design a Data Model in Power BI
+5 - Create Model Calculations using DAX in Power BI	Create DAX Calculations in Power BI Desktop
+5 - Create Model Calculations using DAX in Power BI	Create Advanced DAX Calculations in Power BI Desktop
+7 - Create Reports	Design a Report in Power BI Desktop
+7 - Create Reports	Enhance a Report in Power BI Desktop
+8 - Perform Data Analysis in Power BI	Perform Data Analysis in Power BI
+11 - Create Dashboards	Create a Power BI Dashboard
+12 - Row-Level Security	Enforce Row-Level Security
+
 
 - **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 - **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
